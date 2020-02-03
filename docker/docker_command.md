@@ -5,6 +5,10 @@
 [Практическое руководство](адрес "https://habr.com/ru/post/310460/")
 ---
 
+[Установка Docker CE](адрес "https://docs.docker.com/install/linux/docker-ce/ubuntu/ ")
+
+
+
 ## Термины
 
 
